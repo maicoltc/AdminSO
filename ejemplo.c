@@ -1,6 +1,6 @@
 #include
 int main()
 {
-printf("Practica: Configurar Y Usar Github En Linux");
+printf("practica: configurar y usar github en linux");
 return 0;
 }
